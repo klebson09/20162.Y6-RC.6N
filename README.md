@@ -8,7 +8,7 @@ Lembrando que a pasta 'util' contém o arquivo 'rims.h'
 
 Link para nossa [wiki](http://is.gd/)
 
-Todas as dúvidas serão sanadas por mim ou pelo monitor da disciplina Marcelo Meneses. Terá um dia específico para retirada de dúvidas.
+Todas as dúvidas serão sanadas por mim ou algum aluno voluntário. Terá um dia específico para retirada de dúvidas definida em sala de aula.
 
 ###Lista de Alunos###
 ***
