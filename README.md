@@ -13,6 +13,7 @@ Todas as dúvidas serão sanadas por mim ou algum aluno voluntário. Terá um di
 ###Lista de Alunos###
 ***
 ejb - Elton Jose Bento
+hrmr - Hugo Rafael Magalhães Ribeiro
 
 ***
 
