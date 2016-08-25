@@ -16,6 +16,10 @@ ejb - Elton Jose Bento
 
 hrmr - Hugo Rafael MagalhÃ£es Ribeiro
 
+dbg - Daniel Barlavento Gomes
+
+lho - Laís Hess de Oliveira
+
 ***
 
 ###Grupos###
