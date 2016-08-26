@@ -1,20 +1,24 @@
 # 20162.Y6-RC.6N #
 #Sistemas embarcados#
-RepositÃ³rio da Disciplina de Sistemas Embarcados 2016 - 2
+Repositório da Disciplina de Sistemas Embarcados 2016 - 2
 
-Aos alunos do componente curricular - Sistemas Embarcados - os cÃ³digos que iremos gerar na disciplina deverÃ£o ser alocados nessa Ã¡rea.
+Aos alunos do componente curricular - Sistemas Embarcados - os códigos que iremos gerar na disciplina deverão ser alocados nessa área.
 
-Lembrando que a pasta 'util' contÃ©m o arquivo 'rims.h'
+Lembrando que a pasta 'util' contém o arquivo 'rims.h'
 
 Link para nossa [wiki](http://is.gd/)
 
-Todas as dÃºvidas serÃ£o sanadas por mim ou algum aluno voluntÃ¡rio. TerÃ¡ um dia especÃ­fico para retirada de dÃºvidas definida em sala de aula.
+Todas as dúvidas serão sanadas por mim ou algum aluno voluntário. Terá um dia específico para retirada de dúvidas definida em sala de aula.
 
 ###Lista de Alunos###
 ***
 ejb - Elton Jose Bento
 
-hrmr - Hugo Rafael MagalhÃ£es Ribeiro
+hrmr - Hugo Rafael Magalhães Ribeiro
+
+dbg - Daniel Barlavento Gomes
+
+lho - Laís Hess de Oliveira
 
 ***
 
